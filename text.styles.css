@@ -1,0 +1,140 @@
+@font-face {
+  font-family: 'DomaineDisplay-Black';
+  src: url('typefaces/domaine-display/DomaineDisplay-Black.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-BlackItalic';
+  src: url('typefaces/domaine-display/DomaineDisplay-BlackItalic.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-Extrabold';
+  src: url('typefaces/domaine-display/DomaineDisplay-Extrabold.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-ExtraboldItalic';
+  src: url('typefaces/domaine-display/DomaineDisplay-ExtraboldItalic.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-Bold';
+  src: url('typefaces/domaine-display/DomaineDisplay-Bold.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-BoldItalic';
+  src: url('typefaces/domaine-display/DomaineDisplay-BoldItalic.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-Semibold';
+  src: url('typefaces/domaine-display/DomaineDisplay-Semibold.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-SemiboldItalic';
+  src: url('typefaces/domaine-display/DomaineDisplay-SemiboldItalic.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-Medium';
+  src: url('typefaces/domaine-display/DomaineDisplay-Medium.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-MediumItalic';
+  src: url('typefaces/domaine-display/DomaineDisplay-MediumItalic.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-Regular';
+  src: url('typefaces/domaine-display/DomaineDisplay-Regular.otf');
+}
+
+@font-face {
+  font-family: 'DomaineDisplay-RegularItalic';
+  src: url('typefaces/domaine-display/DomaineDisplay-RegularItalic.otf');
+}
+
+.input {
+  line-height: 1em !important;
+  color: black !important;
+}
+
+.sz_xsm {
+  font-size: 0.5rem !important;
+}
+
+.sz_sml {
+  font-size: 0.75rem !important;
+}
+
+.sz_reg {
+  font-size: 1rem !important;
+}
+
+.sz_med {
+  font-size: 1.25rem !important;
+}
+
+.sz_lrg {
+  font-size: 1.5rem !important;
+}
+
+.sz_xlg {
+  font-size: 2rem !important;
+}
+
+.fs_caps {
+  text-transform: uppercase !important;
+}
+
+.fw_blac {
+  font-family: "DomaineDisplay-Black", serif;
+}
+
+.fw_blac.fs_ital {
+  font-family: "DomaineDisplay-BlackItalic", serif;
+}
+
+.fw_extr {
+  font-family: 'DomaineDisplay-Extrabold', serif;
+}
+
+.fw_extr.fs_ital {
+  font-family: 'DomaineDisplay-ExtraboldItalic', serif;
+}
+
+.fw_bold {
+  font-family: 'DomaineDisplay-Bold', serif;
+}
+
+.fw_bold.fs_ital {
+  font-family: 'DomaineDisplay-BoldItalic', serif;
+}
+
+.fw_semi {
+  font-family: 'DomaineDisplay-Semibold', serif;
+}
+
+.fw_semi.fs_ital {
+  font-family: 'DomaineDisplay-SemiboldItalic', serif;
+}
+
+.fw_medi {
+  font-family: 'DomaineDisplay-Medium', serif;
+}
+
+.fw_medi.fs_ital {
+  font-family: 'DomaineDisplay-MediumItalic', serif;
+}
+
+.fw_norm {
+  font-family: 'DomaineDisplay-Regular', serif;
+}
+
+.fw_norm.fs_ital {
+  font-family: 'DomaineDisplay-RegularItalic', serif;
+}

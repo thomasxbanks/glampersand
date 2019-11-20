@@ -1,0 +1,116 @@
+/* Top  */
+
+.input_row[data-id="input-01"],
+p[data-id="input-01"] {
+  transform: translateX(0px);
+}
+
+.input_row[data-id="input-02"],
+p[data-id="input-02"] {
+  transform: translateX(0px);
+}
+
+.input_row[data-id="input-03"],
+p[data-id="input-03"] {
+  transform: translateX(0px);
+}
+
+.input_row[data-id="input-04"],
+p[data-id="input-04"] {
+  transform: translateX(3px);
+}
+
+.input_row[data-id="input-05"],
+p[data-id="input-05"] {}
+
+.input_row[data-id="input-06"],
+p[data-id="input-06"] {}
+
+.input_row[data-id="input-07"],
+p[data-id="input-07"] {}
+
+.input_row[data-id="input-08"],
+p[data-id="input-08"] {
+  transform: translateX(-3px);
+}
+
+.input_row[data-id="input-09"],
+p[data-id="input-09"] {
+  transform: translateX(-4px);
+}
+
+.input_row[data-id="input-10"],
+p[data-id="input-10"] {
+  transform: translateX(-3px);
+}
+
+.input_row[data-id="input-11"],
+p[data-id="input-11"] {
+  transform: translateX(-4px);
+}
+
+.input_row[data-id="input-12"],
+p[data-id="input-12"] {
+  transform: translateX(-7px);
+}
+
+.input_row[data-id="input-13"],
+p[data-id="input-13"] {
+  transform: translateX(-8px);
+}
+
+.input_row[data-id="input-14"],
+p[data-id="input-14"] {
+  transform: translateX(-9px);
+}
+
+/* Bottom */
+.input_row[data-id="input-15"],
+p[data-id="input-15"] {
+  transform: translateX(61px);
+}
+
+.input_row[data-id="input-16"],
+p[data-id="input-16"] {
+  transform: translateX(50px);
+}
+
+.input_row[data-id="input-17"],
+p[data-id="input-17"] {
+  transform: translateX(40px);
+}
+
+.input_row[data-id="input-18"],
+p[data-id="input-18"] {
+  transform: translateX(22px);
+}
+
+.input_row[data-id="input-19"],
+p[data-id="input-19"] {
+  transform: translateX(12px);
+}
+
+.input_row[data-id="input-20"],
+p[data-id="input-20"] {
+  transform: translateX(7px);
+}
+
+.input_row[data-id="input-21"],
+p[data-id="input-21"] {
+  transform: translateX(3px);
+}
+
+.input_row[data-id="input-22"],
+p[data-id="input-22"] {
+  transform: translateX(-1px);
+}
+
+.input_row[data-id="input-23"],
+p[data-id="input-23"] {
+  transform: translateX(4px);
+}
+
+.input_row[data-id="input-24"],
+p[data-id="input-24"] {
+  transform: translateX(14px);
+}
